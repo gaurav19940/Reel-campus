@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1089048008982",
+    "project_id": "college-reel",
+    "storage_bucket": "college-reel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089048008982:android:9efb059fbba346a4ca9837",
+        "android_client_info": {
+          "package_name": "com.example.randomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089048008982-j5jaq8f1bumov274gphgknjr7sj48e12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.randomy",
+            "certificate_hash": "0a9681563a956737d0872a542fbedebc011398f6"
+          }
+        },
+        {
+          "client_id": "1089048008982-rfcj5hstbgovpi7nl9ipceevn4rn22gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvP-813LCBonBvrsjwth7dqlBlu98_XYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089048008982-p6ntmks58ivr3tk3vg5rlcvn1r1qolv5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1089048008982-fhi604ce882been3aktv6f3uv78nmm6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.randomy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
